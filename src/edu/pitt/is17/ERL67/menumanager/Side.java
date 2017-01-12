@@ -5,6 +5,8 @@ package edu.pitt.is17.ERL67.menumanager;
  * created: 10/14/2016
  */
 
+
+
 public final class Side extends MenuItem {
 	
 	public Side (String name, String description, int calories, double price){
