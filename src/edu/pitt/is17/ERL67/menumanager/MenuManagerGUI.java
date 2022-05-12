@@ -1,7 +1,7 @@
 package edu.pitt.is17.ERL67.menumanager;
 /**
  * Class MenuManagerGUI
- * author : ERL67
+ * author : 
  * created: 12/04/2016
  */
 import javax.swing.*;
