@@ -1,4 +1,4 @@
-package edu.pitt.is17.ERL67.menumanager;
+package edu.pitt.is17..menumanager;
 /**
  * Class MenuManagerGUI
  * author : 
